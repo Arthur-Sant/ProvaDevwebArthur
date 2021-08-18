@@ -1,0 +1,36 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+body {
+    width: 100%;
+}
+
+.form-container {
+    border-radius: 10px;
+    border: 2px solid darkviolet;
+    max-width: 900px;
+    min-width: 500px;
+    height: auto;
+}
+
+.title {
+    width: 100%;
+    background-color: darkviolet;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.mainBody {
+    padding: 25px;
+}
+
+.form-label {
+    font-size: 18px;
+}
